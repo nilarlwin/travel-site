@@ -1,0 +1,29 @@
+body{
+	font-family: cambria;
+}
+#sidebar{
+	background-color: #696969;
+	color: #fff;
+	height: 1000px;
+}
+.sidebar-list{
+	list-style-type: none;
+}
+.sidebar-list li a{
+	color: #fff;
+}
+.sidebar-list li{
+	padding: 15px;
+	border-bottom: 1px solid #fff;
+}
+.sidebar-list li a:hover{
+	text-decoration: none;
+}
+.form-container{
+	background-color: #696969;
+	padding: 18px;
+	color: #fff;
+}
+.user-head{
+    font-weight: bold;
+}

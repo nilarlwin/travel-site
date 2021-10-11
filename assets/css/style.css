@@ -1,0 +1,47 @@
+body{
+	font-family: Cambria;
+}
+.slider-image{
+	height: 500px;
+}
+#header{
+	color: red;
+	text-align: center;
+}
+#header-img{
+	height: 250px;
+}
+.content-card{
+	margin-top: 10px;
+}
+.card-title{
+	text-align: center;
+	color: #a03037;
+}
+.card-btn{
+   display: inline-block;
+   width: 100px;
+   height: 35px;
+   background-color: #a03037;
+   color: #fff;
+   padding: 5px;
+}
+.card-btn:hover{
+	background-color: #FF69B4;
+	color: #fff;
+	text-decoration: none;
+}
+.bt-group{
+	text-align: center;
+}
+.card-image-top{
+	height: 250px;
+}
+.footer{
+	background-color: #a03037;
+	color: #fff;
+}
+.footer p{
+	height: 40px;
+	 line-height: 40px;
+}
